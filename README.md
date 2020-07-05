@@ -16,6 +16,22 @@ Check       : The progress of the project is checked regularly.
 
 Adaptation  : The project should be able to adapt to the changes that can be made.
 
+#### Comparing AGILE & SCRUM
+Agile is a continuous iteration of development and testing in the software development process.
+Scrum is an Agile process to focus on delivering the business value in the shortest time.
+
+Agile methodology delivers the software on a regular basis for feedback
+Scrum delivers the software after each sprint.
+
+In the Agile process, leadership plays a vital role
+Scrum fosters a self-organizing, cross-functional team.
+
+Agile involves collaborations and face-to-face interactions between the members of various cross-functional teams
+Scrum collaboration is achieved in daily stand up meetings.
+
+In Agile process design and execution should be kept simple.
+In Scrum process design and execution can be innovative and experimental.
+
 #### V-MODEL
 
 The main focus of V-Model is giving an equal weight to coding and testing.
