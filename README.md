@@ -11,7 +11,9 @@ Scrum is a type of agile approach that is used in development of software applic
 The product is the primary object of a scrum project. At the end of each sprint, the system or product is brought to a shippable state by the team members.
 
 Clearness   : The progress of the project, problems and developments should be visible to everyone.
+
 Check       : The progress of the project is checked regularly.
+
 Adaptation  : The project should be able to adapt to the changes that can be made.
 
 #### V-MODEL
